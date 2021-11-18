@@ -2,7 +2,7 @@
 ### About my Skills
 I learn what I need to learn. Already worked with **Java**(Android), **Kotlin**(Android), **Delphi**(Desktop), **PHP**(Web service), **HTML5/CSS3**(Website), **VueJS**(Javascript Web Framework), **Javascript**(Website), **Python**(Web site), **Django**(Python Web Framwork).
 #### Actually I'm dedicating myself to VueJS and Javascript, always looking for jobs in front end development.
-##### [Check my C.V.](https://drive.google.com/file/d/1PBCOdWXONyqn5nb7SI-ZYUxYw9ltTud0/view?usp=sharing)
+##### [Check my C.V.](https://drive.google.com/file/d/1o-sEIBB5hcXzqHxTXqovy5p39FFpv6bR/view?usp=sharing)
 
 
 ## Social Media
