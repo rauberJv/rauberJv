@@ -13,7 +13,7 @@ A: It is an child surname.
 ##### **Q: What do you do?**
 A: I'm currently working as Frontend Developer at Dummies
 ##### **Q: What do you do in your free time?**
-A: I enjoy riding on highway, connect to nature and create 3d art on Blender. 
+A: I split my time on GYM and studying at home or coffee shops
 ##### **Q: An impact phrase?**
 A: Do not believe in failures, I think they are blessings with another name.
 
