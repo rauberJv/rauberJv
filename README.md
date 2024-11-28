@@ -21,4 +21,4 @@ Send me an email [here](mailto:rauberjuvinel@gmail.com) to talk about business.
 Private lessons in any programming language, together with programming basic and foundations. For 10+ old to 70+.
 
 ## Contact
-Feel free to reach me on [LinkedIn](https://linkedin.com/in/luis-juvinel) or by [email](rauberjuvinel@gmail.com).
+Feel free to reach me on [LinkedIn](https://linkedin.com/in/luis-juvinel) or by [email](mailto:rauberjuvinel@gmail.com).
